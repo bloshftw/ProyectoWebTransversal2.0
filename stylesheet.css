@@ -322,7 +322,9 @@ body {
     font-size: 1.5rem;
     font-weight: bold;
     margin-bottom: 1rem;
-    color: var(--text-dark);
+    color: #2cb45b;
+    text-align: center;
+    
 }
 
 .about-card__text {
@@ -349,6 +351,14 @@ body {
 
 
 /*SECCION QUIENES SOMOS*/
+
+/*ESPACIADO ENTRE SECCIONES*/
+
+.container_espaciado{
+    height: 100px;
+}
+
+/*ESPACIADO ENTRE SECCIONES*/
 
 /* Sección Pre-inscripciones */
 .pre-inscriptions {

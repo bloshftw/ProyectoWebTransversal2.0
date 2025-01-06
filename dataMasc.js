@@ -8,9 +8,9 @@ const teamsData = {
                 image: "./assets/Fotos Jugadores/A1-Masculino/manuel.jpg"
             },
             {
-                name: "Rodriguez Luciano",
+                name: "Rodriguez Luciano Jesus",
                 position: "Armador / 1.80mts",
-                image: "./assets/Fotos Jugadores/A1-Masculino/Luciano.jpg"
+                image: "/assets/Fotos Jugadores/A1-Masculino/Luciano.jpg"
             },
             {
                 name: "Campoy Leandro Manuel",
