@@ -78,8 +78,8 @@ const teamsData = {
                 image: "/assets/Fotos Jugadores/A2-Masculino-B/fabi.jpg"
             },
             {
-                name: "Damian Methol",
-                position: "Opuesto / 1.75mts",
+                name: "Damian Exequiel Methol",
+                position: "Opuesto / 1.78mts",
                 image: "/assets/imagenes/A1-Masculino/B/damianMethol.jpg"
             },
             {
@@ -163,6 +163,16 @@ const teamsData = {
                 image: "/assets/imagenes/A2-Masculino/zuvi.jpg"
             },
             {
+                name: "Joel Nievas",
+                position: "Central / 1.74mts",
+                image: "/assets/imagenes/A2-Masculino/joelN.jpg"
+            },
+            {
+                name: "Bustos Joaquin Luciano",
+                position: "Central / 1.86mts",
+                image: "/assets/imagenes/A2-Masculino/joakoBustos.jpg"
+            },
+            {
                 name: "Maldonado Kevin Leonel",
                 position: "Punta Receptor / 1.73mts",
                 image: "/assets/imagenes/A2-Masculino/kevinM.jpg"
@@ -171,6 +181,11 @@ const teamsData = {
                 name: "Iglesias Jorge Gabriel",
                 position: "Punta Receptor / 1.80mts",
                 image: "/assets/Fotos Jugadores/A2-Masculino-A/jorgito.jpg"
+            },
+            {
+                name: "Luca javier Brescacin",
+                position: "Libero / 1.68mts",
+                image: "/assets/imagenes/A2-Masculino/xxxx.jpg"
             },
             {
                 name: "Acosta Brian Daniel",

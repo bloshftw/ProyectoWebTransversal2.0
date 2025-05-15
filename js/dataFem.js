@@ -1,146 +1,111 @@
 const teamsData = {
-    a1: {
-        title: "PLANTEL A1",
+    a1a: {
+        title: "PLANTEL A1 A",
         players: [
             {
                 name: "Ricardo Manuel Sosa",
                 position: "Director Técnico",
-                image: "/assets/Fotos Jugadores/A1-Masculino/manuel.jpg"
+                image: "/assets/imagenes/dts/manuelSosa.jpg"
             },
             {
                 name: "Cuello Lara",
                 position: "Posición: Armador / 1.65mts",
-                image: "/assets/Fotos Jugadores/A1-Femenino-A/lara.jpg"
-            },
-            {
-                name: "Rivarola Florencia",
-                position: "Posición: Armador / 1.60mts",
-                image: "/assets/Fotos Jugadores/A1-Femenino-A/flor.jpg"
-            },
-            {
-                name: "Araya Martha Viviana",
-                position: "Posición: Opuesto/Punta Receptor / 1.64mts",
-                image: "/assets/Fotos Jugadores/A1-Femenino-A/martha.jpg"
-            },
-            {
-                name: "Gonzalez Camila",
-                position: "Posición: Opuesto / 1.70mts",
-                image: "/assets/Fotos Jugadores/A1-Femenino-A/camila.jpg"
+                image: "/assets/imagenes/A1-Femenino/A/laraC.jpg"
             },
             {
                 name: "Lopez Bergallo Agostina",
-                position: "Posición: Central/Opuesto / 1.80mts",
-                image: "/assets/Fotos Jugadores/A1-Femenino-A/agos.jpg"
-            },
-            {
-                name: "Parrilla Luciana",
-                position: "Posición: Central / 1.75mts",
-                image: "/assets/Fotos Jugadores/A1-Femenino-A/luci.jpg"
-            },
-            {
-                name: "Crinó Marina",
-                position: "Posición: Central / 1.75mts",
-                image: "/assets/Fotos Jugadores/A1-Femenino-A/flaca.jpg"
-            },
-            {
-                name: "Onorato Jazmnin",
-                position: "Posición: Central / 1.68mts",
-                image: "/assets/Fotos Jugadores/A1-Femenino-A/china.jpg"
-            },
-            {
-                name: "Becerra Melina",
-                position: "Posición: Punta Receptor / 1.65mts",
-                image: "/assets/Fotos Jugadores/A1-Femenino-A/meli.jpg"
-            },
-            {
-                name: "Cuello Leila",
-                position: "Posición: Punta Receptor / 1.60mts",
-                image: "/assets/Fotos Jugadores/A1-Femenino-A/leila.jpg"
-            },
-            {
-                name: "Limolle Sevilla Cintia",
-                position: "Posición: Punta Receptor / 1.63mts",
-                image: "/assets/Fotos Jugadores/A1-Femenino-A/sanjua.jpg"
-            },
-            {
-                name: "Andrada Daniela",
-                position: "Posición: Libero / 1.63mts",
-                image: "/assets/Fotos Jugadores/A1-Femenino-A/dani.jpg"
-            },
-            {
-                name: "Oviedo Celia",
-                position: "Posición: Libero / 1.74mts",
-                image: "/assets/Fotos Jugadores/A1-Femenino-A/celia.jpg"
-            },
-            {
-                name: "Barrera Karen",
-                position: "Posición: Libero / 1.57mts",
-                image: "/assets/Fotos Jugadores/A1-Femenino-A/numero14.jpg"
-            }
-        ]
-    },
-    a2a: {
-        title: 'PLANTEL A1 "B"',
-        players: [
-            {
-                name: "Marcelo Villegas",
-                position: "Director Técnico",
-                image: "/assets/Fotos Jugadores/A2-Femenino/marcelo.jpg"
-            },
-            {
-                name: "López Milagros Guadalupe",
-                position: "Posición: Armador / 1.62mts",
-                image: "/assets/Fotos Jugadores/A1-Femenino-B/guadaArmadora.jpg"
+                position: "Posición: Opuesto / 1.80mts",
+                image: "/assets/imagenes/A1-Femenino/A/agos.jpg"
             },
             {
                 name: "Albornoz Iara Guadalupe",
                 position: "Posición: Opuesto / 1.65mts",
-                image: "/assets/Fotos Jugadores/A1-Femenino-B/iara.jpg"
+                image: "/assets/imagenes/A1-Femenino/A/iaraAlb.jpg"
             },
             {
-                name: "Sandandez Abril Valentina",
-                position: "Posición: Opuesto / 1.60mts",
-                image: "/assets/Fotos Jugadores/A1-Femenino-B/abril.jpg"
+                name: "Parrilla Luciana",
+                position: "Posición: Central / 1.75mts",
+                image: "/assets/imagenes/A1-Femenino/A/lucianaP.jpg"
             },
             {
                 name: "Gribaudo Agustina Vanesa",
                 position: "Posición: Central / 1.79mts",
-                image: "/assets/Fotos Jugadores/A1-Femenino-B/AgusGribaudo.jpg"
+                image: "/assets/imagenes/A1-Femenino/A/agusGribaudo.jpg"
             },
             {
                 name: "Ramirez Guadalupe Agustina",
                 position: "Posición: Central / 1.72mts",
-                image: "/assets/Fotos Jugadores/A1-Femenino-B/guadaR.jpg"
+                image: "/assets/imagenes/A1-Femenino/A/guadaRamirez.jpg"
+            },   
+            {
+                name: "Becerra Melina",
+                position: " Punta Receptor / 1.65mts",
+                image: "/assets/imagenes/A1-Femenino/A/melina.jpg"
             },
             {
-                name: "Moyano Agustina Micaela",
-                position: "Posición: Central / 1.73mts",
-                image: "/assets/Fotos Jugadores/A1-Femenino-B/moyano.jpg"
+                name: "Marini Micaela",
+                position: " Central",
+                image: "/assets/imagenes/A1-Femenino/A/mica.jpg"
             },
             {
-                name: "Fernández Maria Luz",
-                position: "Posición: Punta Receptor / 1.65mts",
-                image: "/assets/Fotos Jugadores/A1-Femenino-B/noviaDeRodas.jpg"
+                name: "Cuello Leila",
+                position: " Punta Receptor / 1.60mts",
+                image: "/assets/imagenes/A1-Femenino/A/leilaC.jpg"
             },
             {
+                name: "Andrada Daniela",
+                position: " Libero / 1.63mts",
+                image: "/assets/imagenes/A1-Femenino/A/dani.jpg"
+            },
+        ]
+    },
+    a1b: {
+        title: "PLANTEL A1 B",
+        players: [
+            {
+                name: "Marcelo Villegas",
+                position: "Director Técnico",
+                image: "/assets/imagenes/dts/marcelo.jpg"
+            },
+            {
+                name: "Araya Martha Viviana",
+                position: " Opuesto/Punta Receptor / 1.64mts",
+                image: "/assets/Fotos Jugadores/A1-Femenino-A/martha.jpg"
+            },
+            {
+                name: "Ana",
+                position: " Central / XXX mts",
+                image: "/assets/Fotos Jugadores/A1-Femenino-A/flaca.jpg"
+            },
+            {
+                name: "Crinó Marina",
+                position: " Central / 1.75mts",
+                image: "/assets/Fotos Jugadores/A1-Femenino-A/flaca.jpg"
+            },
+             {
                 name: "Gatica Carolina Andrea",
-                position: "Posición: Punta Receptor / 1.65mts",
-                image: "/assets/Fotos Jugadores/A1-Femenino-B/caro.jpg"
+                position: " Punta Receptor / 1.65mts",
+                image: "/assets/imagenes/A1-Femenino/B/caro.jpg"
             },
             {
                 name: "Quiroga Rosario",
-                position: "Posición: Punta Receptor / 1.71mts",
-                image: "/assets/Fotos Jugadores/A1-Femenino-B/rosario.jpg"
+                position: " Punta Receptor / 1.71mts",
+                image: "/assets/imagenes/A1-Femenino/B/rosario.jpg"
             },
             {
-                name: "Cortéz Andrada Erika Micaela",
-                position: "Posición: Libero / 1.58mts",
-                image: "/assets/Fotos Jugadores/A1-Femenino-B/erika.jpg"
-            }
+                name: "Limolle Sevilla Cintia",
+                position: " Punta Receptor / 1.63mts",
+                image: "/assets/Fotos Jugadores/A1-Femenino-A/sanjua.jpg"
+            },
+            {
+                name: "Oviedo Celia",
+                position: " Libero / 1.74mts",
+                image: "/assets/imagenes/A1-Femenino/B/celia.jpg"
+            },
         ]
     },
-    a2b: {
-        title: 'PLANTEL A2',
+    a2a: {
+        title: 'PLANTEL A2 A',
         players: [
             {
                 name: "Marcelo Villegas",
@@ -211,10 +176,43 @@ const teamsData = {
                 name: "Suarez Beatriz Gabriela",
                 position: "Posición: Libero / 1.55mts",
                 image: "/assets/Fotos Jugadores/A2-Femenino/libero2.jpg"
-            },
+            }
             
         ]
-    }, a3: {
+    }, 
+    a2b: {
+        title: 'PLANTEL A2 B',
+        players: [
+            {
+                name: "Marcelo Villegas",
+                position: "Director Técnico",
+                image: "/assets/Fotos Jugadores/A2-Femenino/marcelo.jpg"
+            },
+            {
+                name: "López Milagros Guadalupe",
+                position: "Posición: Armador / 1.62mts",
+                image: "/assets/Fotos Jugadores/A1-Femenino-B/guadaArmadora.jpg"
+            },
+    
+            {
+                name: "Sandandez Abril Valentina",
+                position: "Posición: Opuesto / 1.60mts",
+                image: "/assets/Fotos Jugadores/A1-Femenino-B/abril.jpg"
+            },
+            {
+                name: "Moyano Agustina Micaela",
+                position: "Posición: Central / 1.73mts",
+                image: "/assets/Fotos Jugadores/A1-Femenino-B/moyano.jpg"
+            },
+           
+            {
+                name: "Cortéz Andrada Erika Micaela",
+                position: "Posición: Libero / 1.58mts",
+                image: "/assets/Fotos Jugadores/A1-Femenino-B/erika.jpg"
+            }
+        ]
+    },
+    a3: {
         title: 'PLANTEL A3',
         players: [
             {
@@ -241,11 +239,6 @@ const teamsData = {
                 name: "Maza Milagros",
                 position: "Posición: Central / 1.69mts",
                 image: "/assets/Fotos Jugadores/A3-Femenino/mili.jpg"
-            },
-            {
-                name: "Marini Micaela",
-                position: "Posición: Central",
-                image: "/assets/Fotos Jugadores/A3-Femenino/mica.jpg"
             },
             {
                 name: "Gatica Suarez Fátima",
