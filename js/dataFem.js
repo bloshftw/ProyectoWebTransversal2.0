@@ -68,38 +68,68 @@ const teamsData = {
                 image: "/assets/imagenes/dts/marcelo.jpg"
             },
             {
-                name: "Araya Martha Viviana",
-                position: " Opuesto/Punta Receptor / 1.64mts",
-                image: "/assets/Fotos Jugadores/A1-Femenino-A/martha.jpg"
+                name: "Rivarola Florencia",
+                position: "Armador / 1.60 mts",
+                image: "/assets/imagenes/dts/florRivarola.jpg"
+            },
+                    {
+                name: "Knizse Andrea Gisel",
+                position: "Armador  / 1.55 mts",
+                image: "/assets/imagenes/A1-Femenino/B/andrea.jpg"
             },
             {
-                name: "Ana",
-                position: " Central / XXX mts",
-                image: "/assets/Fotos Jugadores/A1-Femenino-A/flaca.jpg"
+                name: "Araya Martha Viviana",
+                position: " Opuesto/Punta Receptor / 1.64 mts",
+                image: "/assets/Fotos Jugadores/A1-Femenino-A/martha.jpg"
+            },
+               {
+                name: "Figueroa Maria Isabel",
+                position: " Opuesto/Punta Receptor / 1.63 mts",
+                image: "/assets/imagenes/A1-Femenino/B/maria2.jpg"
+            },
+            {
+                name: "Maria Silvia de los Santos",
+                position: " Opuesto/Punta Receptor / 1.63 mts",
+                image: "/assets/imagenes/A1-Femenino/B/maria.jpg"
+            },
+            {
+                name: "Becerra Analia Soledad",
+                position: " Central / 1.68 mts",
+                image: "/assets/imagenes/A1-Femenino/B/ana.jpg"
+            },
+            {
+                name: "Guzmán Iris",
+                position: " Central / 1.75 mts",
+                image: "/assets/imagenes/A1-Femenino/B/Iris.jpg"
             },
             {
                 name: "Crinó Marina",
-                position: " Central / 1.75mts",
+                position: " Central / 1.75 mts",
                 image: "/assets/Fotos Jugadores/A1-Femenino-A/flaca.jpg"
             },
-             {
+            {
+                name: " Correa Anahi",
+                position: " Central/Punta Receptor / 1.77 mts",
+                image: "/assets/imagenes/A1-Femenino/B/anahi.jpg"
+            },
+            {
                 name: "Gatica Carolina Andrea",
-                position: " Punta Receptor / 1.65mts",
+                position: " Punta Receptor / 1.65 mts",
                 image: "/assets/imagenes/A1-Femenino/B/caro.jpg"
             },
             {
                 name: "Quiroga Rosario",
-                position: " Punta Receptor / 1.71mts",
+                position: " Punta Receptor / 1.71 mts",
                 image: "/assets/imagenes/A1-Femenino/B/rosario.jpg"
             },
             {
                 name: "Limolle Sevilla Cintia",
-                position: " Punta Receptor / 1.63mts",
+                position: " Punta Receptor / 1.63 mts",
                 image: "/assets/Fotos Jugadores/A1-Femenino-A/sanjua.jpg"
             },
             {
                 name: "Oviedo Celia",
-                position: " Libero / 1.74mts",
+                position: " Libero / 1.75 mts",
                 image: "/assets/imagenes/A1-Femenino/B/celia.jpg"
             },
         ]
@@ -107,20 +137,20 @@ const teamsData = {
     a2a: {
         title: 'PLANTEL A2 A',
         players: [
-            {
+           {
                 name: "Marcelo Villegas",
                 position: "Director Técnico",
-                image: "/assets/Fotos Jugadores/A2-Femenino/marcelo.jpg"
+                image: "/assets/imagenes/dts/marcelo.jpg"
             },
             {
                 name: "Coronel Dayana",
                 position: "Posición: Armador / 1.64mts",
-                image: "/assets/Fotos Jugadores/A2-Femenino/Day.jpg"
+                image: "/assets/imagenes/A2-Femenino/A/dayana.jpg"
             },
             {
                 name: "Palacio Noelia",
                 position: "Posición: Opuesto / 1.60mts",
-                image: "/assets/Fotos Jugadores/A2-Femenino/noe.jpg"
+                image: "/assets/imagenes/A2-Femenino/A/noe.jpg"
             },
             {
                 name: "Aguilera María Florencia",
@@ -130,17 +160,17 @@ const teamsData = {
             {
                 name: "Chaves Jessica Laura",
                 position: "Posición: Central / 1.70mts",
-                image: "/assets/Fotos Jugadores/A2-Femenino/central.jpg"
+                image: "/assets/imagenes/A2-Femenino/A/jessi.jpg"
             },
             {
                 name: "Morales Melina",
                 position: "Posición: Central / 1.72mts",
-                image: "/assets/Fotos Jugadores/A2-Femenino/meli.jpg"
+                image: "/assets/imagenes/A2-Femenino/A/meli.jpg"
             },
             {
                 name: "Methol Aldana Micaela",
                 position: "Posición: Central / 1.64mts",
-                image: "/assets/Fotos Jugadores/A2-Femenino/aldi.jpg"
+                image: "/assets/imagenes/A2-Femenino/A/aldanaM.jpg"
             },
             {
                 name: "Quiroga Paula",
@@ -155,7 +185,7 @@ const teamsData = {
             {
                 name: "Romero Judith Paola",
                 position: "Posición: Punta Receptor / 1.66mts",
-                image: "/assets/Fotos Jugadores/A2-Femenino/pao.jpg"
+                image: "/assets/imagenes/A2-Femenino/A/paoR.jpg"
             },
             {
                 name: "Velazquez Marcela Lucía",
@@ -165,17 +195,17 @@ const teamsData = {
             {
                 name: "Silva Marcela Sandra",
                 position: "Posición: Punta Receptor / 1.63mts",
-                image: "/assets/Fotos Jugadores/A2-Femenino/sandra.jpg"
+                image: "/assets/imagenes/A2-Femenino/A/sandra.jpg"
             },
             {
                 name: "Riquelme Flavia Mariana",
                 position: "Posición: Libero / 1.56mts",
-                image: "/assets/Fotos Jugadores/A2-Femenino/libero1.jpg"
+                image: "/assets/imagenes/A2-Femenino/A/maru.jpg"
             },
             {
                 name: "Suarez Beatriz Gabriela",
                 position: "Posición: Libero / 1.55mts",
-                image: "/assets/Fotos Jugadores/A2-Femenino/libero2.jpg"
+                image: "/assets/imagenes/A2-Femenino/A/gabi.jpg"
             }
             
         ]
@@ -184,77 +214,116 @@ const teamsData = {
         title: 'PLANTEL A2 B',
         players: [
             {
-                name: "Marcelo Villegas",
+                name: "Alturria Celina",
                 position: "Director Técnico",
-                image: "/assets/Fotos Jugadores/A2-Femenino/marcelo.jpg"
+                image: "/assets/imagenes/dts/celina.jpg"
             },
             {
                 name: "López Milagros Guadalupe",
-                position: "Posición: Armador / 1.62mts",
+                position: " Armador / 1.62 mts",
                 image: "/assets/Fotos Jugadores/A1-Femenino-B/guadaArmadora.jpg"
             },
-    
             {
                 name: "Sandandez Abril Valentina",
-                position: "Posición: Opuesto / 1.60mts",
-                image: "/assets/Fotos Jugadores/A1-Femenino-B/abril.jpg"
+                position: " Opuesto / 1.60 mts",
+                image: "/assets/imagenes/A2-Femenino/B/abrilSand.jpg"
+            },
+            {
+                name: "Chavero Guadalupe Soledad",
+                position: " Opuesto / 1.61 mts",
+                image: "/assets/imagenes/A2-Femenino/B/guadaCha.jpg"
+            },
+            {
+                name: "Delfina Jazmin Díaz",
+                position: " Central / 1.76 mts",
+                image: "/assets/imagenes/A2-Femenino/B/delfina.jpg"
+            },
+            {
+                name: "Milagros Maza",
+                position: " Central / 1.69 mts",
+                image: "/assets/imagenes/A2-Femenino/B/miliM.jpg"
             },
             {
                 name: "Moyano Agustina Micaela",
-                position: "Posición: Central / 1.73mts",
-                image: "/assets/Fotos Jugadores/A1-Femenino-B/moyano.jpg"
+                position: " Central / 1.73 mts",
+                image: "/assets/imagenes/A2-Femenino/B/agusMoyano.jpg"
             },
-           
+            {
+                name: "Ramirez Karen Abigail",
+                position: " Punta Receptor / 1.70 mts",
+                image: "/assets/imagenes/A2-Femenino/B/karen.jpg"
+            },
             {
                 name: "Cortéz Andrada Erika Micaela",
-                position: "Posición: Libero / 1.58mts",
-                image: "/assets/Fotos Jugadores/A1-Femenino-B/erika.jpg"
-            }
+                position: " Punta Receptor / 1.58 mts",
+                image: "/assets/imagenes/A2-Femenino/B/erika2.jpg"
+            },
+            {
+                name: "Quiroga Marina Celeste",
+                position: "Libero / 1.63 mts",
+                image: "/assets/imagenes/A2-Femenino/B/celeste.jpg"
+            },
         ]
     },
     a3: {
         title: 'PLANTEL A3',
         players: [
             {
-                name: "Chavero Guadalupe Soledad",
-                position: "Posición: Armador/Punta Receptor / 1.61mts",
-                image: "/assets/Fotos Jugadores/A3-Femenino/guada.jpg"
+                name: "Alturria Celina",
+                position: "Director Técnico",
+                image: "/assets/imagenes/dts/celina.jpg"
+            },
+            {
+                name: "Lopez Martina Gabriela",
+                position: " Armador / 1.65 mts",
+                image: "/assets/imagenes/A3-Femenino/gabi.jpg"
+            },
+            {
+                name: "Ludmila valentina Vera",
+                position: " Armador/Punta Receptor / 1.67 mts",
+                image: "/assets/imagenes/A3-Femenino/ludmila.jpg"
             },
             {
                 name: "Vara Rodríguez Sol Abril",
-                position: "Posición: Opuesto / 1.66mts",
-                image: "/assets/Fotos Jugadores/A3-Femenino/abril.jpg"
+                position: " Opuesto / 1.66 mts",
+                image: "/assets/imagenes/A3-Femenino/abril.jpg"
             },
             {
-                name: "Lemos Verónica Daniela",
-                position: "Posición: Punta Receptor / 1.56mts",
-                image: "/assets/Fotos Jugadores/A3-Femenino/liberito.jpg"
+                name: "Jazmin Avila Possetto",
+                position: " Opuesto/Punta Receptor / 1.65 mts",
+                image: "/assets/imagenes/A3-Femenino/jazmin.jpg"
             },
             {
-                name: "Quiroga Marina Celeste",
-                position: "Posición: Punta Receptor / 1.64mts",
-                image: "/assets/Fotos Jugadores/A3-Femenino/celeste.jpg"
+                name: "Barroso Laila Anamá",
+                position: " Central / 1.72 mts",
+                image: "/assets/imagenes/A3-Femenino/laila.jpg"
             },
             {
-                name: "Maza Milagros",
-                position: "Posición: Central / 1.69mts",
-                image: "/assets/Fotos Jugadores/A3-Femenino/mili.jpg"
+                name: "Eugenia Isabel Torres",
+                position: " Central / 1.72 mts",
+                image: "/assets/imagenes/A3-Femenino/eugenia.jpg"
             },
             {
                 name: "Gatica Suarez Fátima",
-                position: "Posición: Central / 1.66mts",
-                image: "/assets/Fotos Jugadores/A3-Femenino/fatima.jpg"
+                position: " Central / 1.66 mts",
+                image: "/assets/imagenes/A3-Femenino/fatima.jpg"
+            },
+            {
+                name: "Brisa Magali Ozan",
+                position: "Punta Receptor / 1.58 mts",
+                image: "/assets/imagenes/A3-Femenino/brisa.jpg"
+            },
+            {
+                name: "Daniela Coronel",
+                position: "Punta Receptor / 1.52 mts",
+                image: "/assets/imagenes/A3-Femenino/daniela.jpg"
             },
             {
                 name: "Videla Berenice Azul",
-                position: "Posición: Libero / 1.56mts",
-                image: "/assets/Fotos Jugadores/A3-Femenino/azul.jpg"
+                position: " Libero / 1.56 mts",
+                image: "/assets/imagenes/A3-Femenino/azul2.jpg"
             },
-            {
-                name: "Lopez Malena",
-                position: "Posición: Libero",
-                image: "/assets/Fotos Jugadores/A3-Femenino/malena.jpg"
-            }
+        
         ]
     }
 };
